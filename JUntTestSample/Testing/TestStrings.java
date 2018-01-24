@@ -11,7 +11,7 @@ public class TestStrings {
 
 		myClass test = new myClass();
 		String res = test.addStrings("Hello", "world" );
-		assertEquals("Helloworld", res);
+		assertEquals("HelloWorld", res);
 				
 	}
 
